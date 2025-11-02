@@ -1,4 +1,4 @@
-# 🍌 Minions FinTech - Secure Banking Application
+#  Minions FinTech - Secure Banking Application
 
 A comprehensive FinTech security demonstration application with **22 manual cybersecurity test cases** for academic security assessment.
 
